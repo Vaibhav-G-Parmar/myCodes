@@ -49,7 +49,7 @@ int main()
 	}
 	else
 	{
-		cout << "Unfortunately! There is not enough size available for this Application to run." << endl;
+		cout << "Unfortunately! There is not enough size available for this Application to execute." << endl;
 	}
 
 	delete[] a;			//deleting the alloated memory
