@@ -9,7 +9,7 @@ using namespace std;
 
 int main() 
 {
-	int numOfIntegers;		//to store the size of Array entered by
+	int numOfIntegers;			//to store the size of Array entered by
 	int* a = nullptr;			//the array to store all the integers			
 	double avg;
 	int total = 0;
@@ -19,7 +19,7 @@ int main()
 	cout << "Please enter the number of integers to store in the array : ";
 	cin >> numOfIntegers;
 	
-	a = new int[numOfIntegers];			//Dyanmically allocating the size for the array to store the intergers entered by user
+	a = new int[numOfIntegers];		//Dyanmically allocating the size for the array to store the intergers entered by user
 
 	if (a != nullptr)
 	{
@@ -49,9 +49,9 @@ int main()
 	}
 	else
 	{
-		cout << "Unfortunately! There is not enough size available for this Application to run." << endl;
+		cout << "Unfortunately! There is not enough size available for this Application to execute." << endl;
 	}
 
-	delete[] a;				//deleting the alloated memory
+	delete[] a;			//deleting the alloated memory
 	a = nullptr;			//immediately asigning it to nullptr for future use
 }
