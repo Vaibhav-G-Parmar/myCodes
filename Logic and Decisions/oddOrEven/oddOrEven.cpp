@@ -1,3 +1,9 @@
+/*
+Program to find odd or even
+oddOrEven.cpp
+Author: Vaibhav Parmar
+*/
+
 #include <iostream>
 using namespace std;
 

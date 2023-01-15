@@ -1,3 +1,9 @@
+/*
+Program to find if a given character is vowel or not
+isCharVowel.cpp
+Author: Vaibhav Parmar
+*/
+
 #include <iostream>
 using namespace std;
 
