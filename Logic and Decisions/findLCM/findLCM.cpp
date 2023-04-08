@@ -13,7 +13,7 @@ int main()
 
    cout << "Enter the second integer > ";
    cin >> num2;
-
+ 
    cout << endl;
 
    if (num2 > num1)
