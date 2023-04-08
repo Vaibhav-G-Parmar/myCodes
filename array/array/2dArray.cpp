@@ -6,21 +6,7 @@ using std::endl;
 
 int main()
 {               
-   const int rows = 3;
-   const int columns = 3;
-   int table[rows][columns];
 
-   for (int rows = 0; rows < 3; rows++)
-   {
-      for (int columns = 0; columns < 3; columns++)
-      {
-         int value;
-         cout << "Please enter data for R" << rows << "C" << columns << " > ";
-         cin >> value;
-         table[rows][columns] = value;
-      }
-      cout << endl;
-   }
    
    cout << endl << "Displaying 2D array below" << endl;
 
