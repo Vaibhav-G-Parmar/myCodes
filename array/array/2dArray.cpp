@@ -6,18 +6,6 @@ using std::endl;
 
 int main()
 {               
-   /*int numbers[] = { 10,20,30,40,50 };
-   std::string names[] = { "Atmiya", "Suhrad", "Nimit", "Das", "Aanand" };
-
-   for (int val : numbers)
-      cout << val << endl;
-   cout << "\n";
-   for (std::string name : names)
-      cout << name << ", ";
-   cout << "\n";
-   char fName[] = "Henry";
-   cout << fName << endl;*/
-
    const int rows = 3;
    const int columns = 3;
    int table[rows][columns];
