@@ -6,7 +6,7 @@ Author: Vaibhav Parmar
 
 #include <iostream>
 using namespace std;
-
+ 
 int main() 
 {
 	int numOfIntegers;			//to store the size of Array entered by
