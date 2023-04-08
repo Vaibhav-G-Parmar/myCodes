@@ -11,7 +11,7 @@ int main()
    cin >> n1;
    cout << "> ";
    cin >> n2;
-   cout << endl;
+   cout << endl; 
 
    cout << "Please choose what would you like to do," << endl
       << "1. Addition" << endl
