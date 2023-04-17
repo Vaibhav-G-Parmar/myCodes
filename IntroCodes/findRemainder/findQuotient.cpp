@@ -11,7 +11,7 @@ int main()
    cout << "Please enter a Divisor: "; 
    cin >> divisor;
    cout << endl;
-
+ 
    quotient = dividend / divisor;
    remainder = dividend % divisor;  
  
