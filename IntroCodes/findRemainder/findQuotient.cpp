@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
    int dividend, divisor, quotient, remainder;
-   cout << "*** Find out the Quotient and Remainder! ***" << endl << endl;
+   cout << "*** Find out the Quotient and Remainder! ***" << endl << endl; 
 
    cout << "Please enter a Dividend: ";
    cin >> dividend;
