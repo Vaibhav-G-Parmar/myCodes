@@ -8,7 +8,7 @@ int main()
 
    cout << "Please enter a Dividend: ";
    cin >> dividend;
-   cout << "Please enter a Divisor: ";
+   cout << "Please enter a Divisor: "; 
    cin >> divisor;
    cout << endl;
 
