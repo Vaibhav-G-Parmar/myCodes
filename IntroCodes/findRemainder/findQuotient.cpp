@@ -13,7 +13,7 @@ int main()
    cout << endl;
 
    quotient = dividend / divisor;
-   remainder = dividend % divisor; 
+   remainder = dividend % divisor;  
  
    cout << "The Quotient is: " << quotient << endl;
    cout << "The Remainder is: " << remainder << endl << endl << "Thank you!" << endl;
