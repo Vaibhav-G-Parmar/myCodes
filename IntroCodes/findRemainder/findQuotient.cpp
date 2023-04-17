@@ -10,7 +10,7 @@ int main()
    cin >> dividend;
    cout << "Please enter a Divisor: "; 
    cin >> divisor;
-   cout << endl;
+   cout << endl; 
  
    quotient = dividend / divisor;
    remainder = dividend % divisor;  
