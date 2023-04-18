@@ -13,7 +13,7 @@ void main()
    bool repeat = true;
    cout << "*** Let's find the size of the Fundamental Types in C++ ***" << endl << endl;
 
-   do
+   do 
    {
       cout << "Which type's size would like to find?" << endl; 
       cout << "1. Char" << endl 
