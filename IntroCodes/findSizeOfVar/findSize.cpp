@@ -26,7 +26,7 @@ void main()
       if (choice == 1) 
       {
          cout << endl << "Size of a char: " << sizeof(char) << endl << endl;
-      }
+      } 
       else if (choice == 2) 
       {
          cout << endl << "Size of a int: " << sizeof(int) << endl << endl;
