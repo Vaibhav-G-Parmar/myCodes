@@ -11,7 +11,7 @@ void main()
 {
    int choice;
    bool repeat = true;
-   cout << "*** Let's find the size of the Fundamental Types in C++ ***" << endl << endl;
+   cout << "*** Let's find the size of the Fundamental Types in C++ ***" << endl << endl; 
 
    do 
    {
