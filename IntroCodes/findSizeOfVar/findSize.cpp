@@ -16,7 +16,7 @@ void main()
    do
    {
       cout << "Which type's size would like to find?" << endl; 
-      cout << "1. Char" << endl
+      cout << "1. Char" << endl 
          << "2. Integer" << endl
          << "3. Float" << endl
          << "4. Double" << endl 
