@@ -19,7 +19,7 @@ void main()
       cout << "1. Char" << endl 
          << "2. Integer" << endl
          << "3. Float" << endl
-         << "4. Double" << endl 
+         << "4. Double" << endl  
          << "Enter 0 to exit." << endl << "> ";
       cin >> choice;
          
