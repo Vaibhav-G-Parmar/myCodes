@@ -33,7 +33,7 @@ int main()
 		// Find sum of all array elements
 		for (int i = 0; i < numOfIntegers; i++)
 		{
-			total += a[i];
+			total += a[i]; 
 		}
 		avg = total / numOfIntegers;
 		cout << endl;
