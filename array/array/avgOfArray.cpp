@@ -4,7 +4,7 @@ avgOfArray.cpp
 Author: Vaibhav Parmar
 */
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
  
 int main() 
