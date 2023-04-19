@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-   int choice;
+   int choice; 
    double n1, n2;
    cout << "*** Welcome to my C++ Calculator! ***" << endl << endl;
  
