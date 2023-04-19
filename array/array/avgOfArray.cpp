@@ -8,7 +8,7 @@ Author: Vaibhav Parmar
 using namespace std;
  
 int main() 
-{
+{ 
 	int numOfIntegers;			//to store the size of Array entered by
 	int* a = nullptr;			//the array to store all the integers			
 	double avg;
