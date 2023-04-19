@@ -15,7 +15,7 @@ int main()
 	int total = 0;
 
 	cout << "*** Calculating average of all the integers of an array! ***" << endl << endl;
-
+ 
 	cout << "Please enter the number of integers to store in the array : ";
 	cin >> numOfIntegers;
 	
