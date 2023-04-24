@@ -10,7 +10,7 @@ using namespace std;
 void main()
 {
    int choice;
-   bool repeat = true; 
+   bool repeat = true;  
    cout << "*** Let's find the size of the Fundamental Types in C++ ***" << endl << endl; 
 
    do 
